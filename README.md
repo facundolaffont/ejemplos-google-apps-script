@@ -1,2 +1,2 @@
 # ejemplos-google-apps-script
-Examples of Google Apps Script.
+Google Apps Script examples.
