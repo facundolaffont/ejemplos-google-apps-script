@@ -3,6 +3,8 @@
  * if the sheet doesn't exist in the active spreadsheet already.
  * 
  * @param {string[]} listOfSheets Array of names of the sheets to create.
+ * @todo Make the function to admit common modifications appliable to every
+ * created sheet.
  */
 function createSheetsFromList(listOfSheets) {
     let activeSpreadsheet = SpreadsheetApp
