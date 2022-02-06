@@ -2,7 +2,7 @@
  * Deletes every sheet with the same name as stored in the passed array if the sheet
  * already exists in the active spreadsheet.
  * 
- * @param {string[]} listOfSheets Array of names of the sheets to create.
+ * @param {string[]} listOfSheets Array of names of the sheets to delete.
  */
 function deleteSheetsFromList(listOfSheets) {
     let activeSpreadsheet = SpreadsheetApp
